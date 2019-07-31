@@ -9,3 +9,5 @@ I fixed four bugs in the source code.
 It's very similar to MailSniper's Invoke-PasswordSprayEWS:
 
 https://github.com/dafthack/MailSniper
+
+Details soon.
